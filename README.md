@@ -16,9 +16,9 @@ The data includes a range of information on coffee production, processing, and s
 **4. Acidity:** Acidity in coffee refers to the brightness or liveliness of the taste.   
 **5. Body:** The body of coffee refers to the thickness or viscosity of the coffee in the mouth.   
 **6. Balance:** Balance refers to how well the different flavor components of the coffee work together.   
-**7. Uniformity:** Uniformity refers to the consistency of the coffee from cup to cup.
-**8. Clean Cup:** A clean cup refers to a coffee that is free of any off-flavors or defects, such as sourness, mustiness, or staleness.
-**9. Sweetness:** It can be described as caramel-like, fruity, or floral, and is a desirable quality in coffee.
+**7. Uniformity:** Uniformity refers to the consistency of the coffee from cup to cup.   
+**8. Clean Cup:** A clean cup refers to a coffee that is free of any off-flavors or defects, such as sourness, mustiness, or staleness.   
+**9. Sweetness:** It can be described as caramel-like, fruity, or floral, and is a desirable quality in coffee.   
 
 ### Defects:
 Defects are undesirable qualities that can occur in coffee beans during processing or storage. Defects can be categorized into two categories: Category One and Category Two defects.
