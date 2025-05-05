@@ -21,9 +21,9 @@ The data includes a range of information on coffee production, processing, and s
 **9. Sweetness:** It can be described as caramel-like, fruity, or floral, and is a desirable quality in coffee.   
 
 ### Defects:
-Defects are undesirable qualities that can occur in coffee beans during processing or storage. Defects can be categorized into two categories: Category One and Category Two defects.
-**Category One defects** are primary defects that can be perceived through visual inspection of the coffee beans. These defects include Black beans, sour beans, insect-damaged beans, fungus-damaged beans, etc.
-**Category Two defects** are secondary defects that are more subtle and can only be detected through tasting. These defects include Over-fermentation, staleness, rancidness, chemical taste, etc.
+Defects are undesirable qualities that can occur in coffee beans during processing or storage. Defects can be categorized into two categories: Category One and Category Two defects.   
+**Category One defects** are primary defects that can be perceived through visual inspection of the coffee beans. These defects include Black beans, sour beans, insect-damaged beans, fungus-damaged beans, etc.   
+**Category Two defects** are secondary defects that are more subtle and can only be detected through tasting. These defects include Over-fermentation, staleness, rancidness, chemical taste, etc.    
 
 ### Objective: 
 The primary goal of this project is to leverage the rich dataset provided by CQI to understand the factors that contribute to coffee quality. Specifically, we aim to explore the following research questions:
